@@ -11,5 +11,4 @@ public class Needle7 {
         return ", смерть Кощея на игле :( " + "";
     }
 
-
 }

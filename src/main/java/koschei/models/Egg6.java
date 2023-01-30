@@ -15,7 +15,6 @@ public class Egg6 {
     }
 
     @Autowired
-    public void setNeedle7 (Needle7 needle7){this.needle7=needle7;};
-
+    public void setNeedle7 (Needle7 needle7){this.needle7=needle7;}
 
 }

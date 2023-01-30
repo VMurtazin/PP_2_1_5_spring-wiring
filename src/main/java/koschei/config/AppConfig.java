@@ -23,7 +23,4 @@ public class AppConfig {
         return new Needle7();
     }
 
-
-
-
 }
